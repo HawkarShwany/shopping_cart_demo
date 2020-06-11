@@ -2,6 +2,4 @@
 
 A simple shopping cart demo
 
-## Getting Started
-
-![demo](assets/video/demo.mp4)
+[![](assets/video/demo.mp4)]()
